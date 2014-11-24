@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 title: Guanjinglei's Blog
 description: Guanjinglei's Blog, powered by Jekyll...
-feed: http://www.winfirm.cn/atom.xml
+feed: http://guanjinglei.github.io/atom.xml
 
 author: Steven Pan
 
